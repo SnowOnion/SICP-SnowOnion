@@ -1,0 +1,8 @@
+PL 2015-08-01 10:16:53
+
+我觉得这样更好一些
+#lang racket/base
+(require (planet neil/sicp))
+因为这样还可以使用 racket 的模块系统
+
+http://www.douban.com/group/topic/70711040/
