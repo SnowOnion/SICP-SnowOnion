@@ -3,5 +3,4 @@
 
 # DrRacket
 *~
-/compiled/*
-*/compiled/*
+compiled/
